@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Full Sleeve Self Design Men Casual Jacket",
+      "price": 874,
+      "img": "https://rukminim1.flixcart.com/image/580/696/kirr24w0/jacket/m/k/x/m-m7aw20jkt002b-m7-by-metronaut-original-imafyhwuszbd7nyd.jpeg?q=50"
+    },
+    {
+      "id": 2,
+      "name": "Sleeveless Solid Men Sport",
+      "price": 659,
+      "img": "https://rukminim1.flixcart.com/image/580/696/kmkxbww0/jacket/c/h/z/m-adaw20jk004b-adrenex-original-imagfgcjsq3cguhr.jpeg?q=50"
+    },
+    {
+      "id": 3,
+      "name": "Full Sleeve Solid Men Quiltedt",
+      "price": 918,
+      "img": "https://rukminim1.flixcart.com/image/580/696/kflftzk0/jacket/z/q/9/xl-81276-fk-breil-by-fort-collins-original-imafwyyevjwneh3x.jpeg?q=50"
+    },
+    {
+      "id": 4,
+      "name": "Full Sleeve Printed Men Cas",
+      "price": 404,
+      "img": "https://rukminim1.flixcart.com/image/580/696/jxapua80/sweatshirt/j/z/j/4xl-tnvhoodabs-sweat-tripr-original-imaf9ebbaaqqzbvv.jpeg?q=50"
+    },
+    {
+      "id": 5,
+      "name": "Full Sleeve Striped Men Bomber Jacket",
+      "price": 749,
+      "img": "https://rukminim1.flixcart.com/image/580/696/kjiwfbk0/jacket/b/v/f/m-m7aw20jkt015a-m7-by-metronaut-original-imafz2f4qc3nnvgy.jpeg?q=50"
+    },
+    {
+      "id": 6,
+      "name": "Full Sleeve Solid Men Sports Jacket",
+      "price": 1647,
+      "img": "https://rukminim1.flixcart.com/image/580/696/kljrvrk0/jacket/u/i/w/m-cu4948-010-nike-original-imagyn7rzhsrywhj.jpeg?q=50"
+    }
+  ]
+}

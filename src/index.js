@@ -4,11 +4,14 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import * as serviceWorker from './serviceWorker';
+import { ProductProvider } from './Store/productContext';
 
 ReactDOM.render(
   <StrictMode>
     <ColorModeScript />
-    <App />
+    <ProductProvider>
+      <App />
+    </ProductProvider>
   </StrictMode>,
   document.getElementById('root')
 );
